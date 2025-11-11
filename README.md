@@ -42,50 +42,39 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-
-<div align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 12px;">
-
-  <a href="https://reactjs.org/" target="_blank" style="display:inline-block; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
   </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank" style="display:inline-block; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
   </a>
-
-  <a href="https://www.javascript.com/" target="_blank" style="display:inline-block; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
   </a>
-
-  <a href="https://redux.js.org/" target="_blank" style="display:inline-block; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" />
   </a>
-
-  <a href="https://mui.com/" target="_blank" style="display:inline-block; text-decoration: none;">
-    <img src="https://mui.com/static/logo.png" width="40"/>
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://mui.com/static/logo.png" width="40" />
   </a>
-
-  <a href="https://nodejs.org/" target="_blank" style="display:inline-block; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
   </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="display:inline-block; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
   </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="display:inline-block; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
   </a>
-
-  <a href="https://git-scm.com/" target="_blank" style="display:inline-block; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
   </a>
-
-  <a href="https://postman.com" target="_blank" style="display:inline-block; text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <a href="https://postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
   </a>
+</p>
 
-</div>
 
 
 ---
