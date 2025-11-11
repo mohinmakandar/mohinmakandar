@@ -1,14 +1,3 @@
-<html>
- <head>
-  <style>
-   .flexcontainer {
-    display:"flex";
-    justify-content:"center";
-     flex-direction:"row";
-    }
-  </style>
- </head>
- <body>
 <h1 align="center">Hi 👋, I'm Mohin Makandar  
 <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Developer.gif" width="80px"> 
 </h1>
@@ -110,5 +99,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mohinmakandar" alt="trophies"/>
  </a>
 </p>
-</body>
-</html>
