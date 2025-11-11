@@ -86,6 +86,6 @@
 
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohinmakandar&theme=onedark" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohinmakandar" alt="trophies"/>
  </a>
 </p>
