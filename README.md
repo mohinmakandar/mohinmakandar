@@ -42,49 +42,51 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
 
-<!-- React -->
-<div>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+<div align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 12px;">
+
+  <a href="https://reactjs.org/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  </a>
+
+  <a href="https://www.javascript.com/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  </a>
+
+  <a href="https://redux.js.org/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+  </a>
+
+  <a href="https://mui.com/" target="_blank" style="display:inline-block;">
+    <img src="https://mui.com/static/logo.png" width="40"/>
+  </a>
+
+  <a href="https://nodejs.org/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  </a>
+
+  <a href="https://postman.com" target="_blank" style="display:inline-block;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  </a>
+
 </div>
-<div>
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
-</div>
-<div>
-<!-- JavaScript -->
-<a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-</div>
-<div>
-<!-- Redux -->
-<a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/></a>
-</div>
-<div>
-<!-- MUI -->
-<a href="https://mui.com/" target="_blank"><img src="https://mui.com/static/logo.png" width="40"/></a>
-</div>
-<div>
-<!-- Node -->
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
-</div>
-<div>
-<!-- HTML -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
-</div>
-<div>
-<!-- CSS -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
-</div>
-<div>
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
-</div>
-<div>
-<!-- Postman -->
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-</div>
-</div>
+
 
 ---
 
