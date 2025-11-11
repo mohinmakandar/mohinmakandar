@@ -1,3 +1,14 @@
+<html>
+ <head>
+  <style>
+   .flexcontainer {
+    display:"flex";
+    justify-content:"center";
+     flex-direction:"row";
+    }
+  </style>
+ </head>
+ <body>
 <h1 align="center">Hi 👋, I'm Mohin Makandar  
 <img src="https://github.com/ChitralwarManik/ChitralwarManik/blob/main/Assets/Developer.gif" width="80px"> 
 </h1>
@@ -42,7 +53,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex">
+<p align="left" class="flexcontainer">
 
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
@@ -89,3 +100,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mohinmakandar" alt="trophies"/>
  </a>
 </p>
+</body>
+</html>
