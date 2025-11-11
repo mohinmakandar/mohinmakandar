@@ -53,7 +53,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" class="flexcontainer">
+<div align="left" class="flexcontainer">
 
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
@@ -85,7 +85,7 @@
 <!-- Postman -->
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
 
-</p>
+</div>
 
 ---
 
